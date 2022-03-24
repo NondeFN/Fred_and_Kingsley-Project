@@ -1,0 +1,10 @@
+body {
+
+   margin: auto;
+    max-width: max-content;
+}
+@media (max-width: 75em) {
+    html {
+      font-size: 60%;
+    }
+  }
